@@ -1,2 +1,3 @@
 kedvenc git utasításod
 exit
+git
